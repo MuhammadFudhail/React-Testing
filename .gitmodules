@@ -1,0 +1,3 @@
+[submodule "react-testing-jest"]
+	path = react-testing-jest
+	url = https://github.com/username/react-testing-jest.git
